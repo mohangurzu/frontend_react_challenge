@@ -1,11 +1,11 @@
 {
   "Post": {
     "title": "string",
-    "body": "Tempor accusam diam invidunt stet sit amet eos dolore dolore. Voluptua rebum consetetur invidunt gubergren duo aliquyam gubergren clita elitr, tempor amet lorem labore at voluptua voluptua. No consetetur takimata justo sed. No labore magna dolores et dolor clita amet invidunt duo. Accusam et dolore nonumy dolor dolor diam ipsum sit, gubergren diam dolores eos et sed justo tempor et voluptua, duo et at rebum nonumy, duo ut amet elitr et. Lorem dolore dolore magna diam est kasd duo, tempor consetetur at elitr dolores ipsum duo. Justo lorem kasd et dolor vero vero duo ipsum. Ipsum lorem amet erat sea.",
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "comments": "Comment[]"
+    "comments": "Comment[]",
+    "body": "Tempor accusam diam invidunt stet sit amet eos dolore dolore. Voluptua rebum consetetur invidunt gubergren duo aliquyam gubergren clita elitr, tempor amet lorem labore at voluptua voluptua. No consetetur takimata justo sed. No labore magna dolores et dolor clita amet invidunt duo. Accusam et dolore nonumy dolor dolor diam ipsum sit, gubergren diam dolores eos et sed justo tempor et voluptua, duo et at rebum nonumy, duo ut amet elitr et. Lorem dolore dolore magna diam est kasd duo, tempor consetetur at elitr dolores ipsum duo. Justo lorem kasd et dolor vero vero duo ipsum. Ipsum lorem amet erat sea."
   },
   "Comment": {
     "body": "string",

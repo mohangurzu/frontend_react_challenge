@@ -1,7 +1,7 @@
 {
   "Post": {
     "title": "string",
-    "body": "paragraphs",
+    "body": "{{paragraphs}}",
     "views": "int",
     "published": "boolean",
     "createdAt": "date",

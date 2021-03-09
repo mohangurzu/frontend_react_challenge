@@ -4,6 +4,7 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
+    "mohan":"mohan",
     "comments": "Comment[]"
   },
   "Comment": {

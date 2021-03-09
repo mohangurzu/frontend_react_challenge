@@ -4,7 +4,7 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "mohan":"fjkdsfkljdslkfklsdkfjsdjfkdsjfkjlkdsfjkldfkjadkkl",
+    "body":"string[300]",
     "comments": "Comment[]"
   },
   "Comment": {
